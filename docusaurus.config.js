@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'You Dont Know JS',
+  tagline: 'Docusaurus version of "You Dont Know JS"',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,9 +76,8 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jellyfish-17/you-dont-know-js-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -112,20 +111,7 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
