@@ -1,7 +1,7 @@
 
 # Scope Closures
 
-<img src="images/cover.png" width="300" />
+<img src="/img/cover.png" width="300" />
 
 -----
 

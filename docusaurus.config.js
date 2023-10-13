@@ -9,6 +9,7 @@ const config = {
   title: 'You Dont Know JS',
   tagline: 'Docusaurus version of "You Dont Know JS"',
   favicon: 'img/favicon.ico',
+  staticDirectories: ['public', 'static'],
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
