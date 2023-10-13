@@ -6,8 +6,8 @@
 
 [Table of Contents](toc.md)
 
-* [Foreword](foreword.md) (by TBA)
-* [Preface](../../preface.md)
+* [Foreword](foreword.mdx) (by TBA)
+* [Preface](../preface.md)
 * [Chapter 1: Primitive Values](ch1.md)
 * [Chapter 2: Primitive Behaviors](ch2.md)
 * [Chapter 3: Object Values](ch3.md)

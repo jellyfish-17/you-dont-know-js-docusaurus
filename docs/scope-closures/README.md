@@ -11,8 +11,8 @@
 
 [Table of Contents](toc.md)
 
-* [Foreword](foreword.md) (by [Sarah Drasner](https://sarah.dev/))
-* [Preface](../../preface.md)
+* [Foreword](foreword.mdx) (by [Sarah Drasner](https://sarah.dev/))
+* [Preface](../preface.md)
 * [Chapter 1: What's the Scope?](ch1.md)
 * [Chapter 2: Illustrating Lexical Scope](ch2.md)
 * [Chapter 3: The Scope Chain](ch3.md)
